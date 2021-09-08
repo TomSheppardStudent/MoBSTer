@@ -5,5 +5,5 @@ Molecular Beam Scattering using Trajectories
 
 This is the github for MoBSTer- a general all purpose molecular beam scattering model.
 
-Copyright (c) 2020, Fraser Birks and William Allison.
+Copyright (c) 2021, Fraser Birks, Tom Sheppard and William Allison.
 All rights reserved.
